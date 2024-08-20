@@ -12,5 +12,8 @@ h2{color: rgb(192, 255, 247)
 }
 nav a{color:rgb(213, 165, 255)
 }
-li{color: aliceblue;
+li .lilman {color: aliceblue;
+    text-align: left;
+}
+p {color: aliceblue;
 }
