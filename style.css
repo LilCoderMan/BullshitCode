@@ -1,6 +1,5 @@
 body {
     background-color: rgb(0, 0, 0) ;
-    text-align: center;
 }
 strong{color: rgb(192, 255, 247)
 }
@@ -12,8 +11,10 @@ h2{color: rgb(192, 255, 247)
 }
 nav {color:rgb(213, 165, 255)
 }
-li .lilman {color: aliceblue;
+li {color: aliceblue;
     text-align: left;
 }
 p {color: aliceblue;
+    text-align: center;
 }
+img {text-align: left;}
