@@ -3,18 +3,22 @@ body {
 }
 strong{color: rgb(0, 255, 221)
 }
-header{color: rgb(192, 255, 247)
+header{color: rgb(192, 255, 247);
+    text-align: center
 }
-h1 {color: rgb(192, 255, 247)
+h1 {color: rgb(192, 255, 247);
+    text-align: center
 }
-h2 {color: rgb(192, 255, 247)
+h2 {color: rgb(192, 255, 247);
+    text-align: center
 }
-nav {color:rgb(213, 165, 255)
+nav {color:rgb(213, 165, 255);
+    text-align: center
 }
 li {color: aliceblue;
-    text-align: left;
+    text-align: left
 }
 p {color: aliceblue;
-    text-align: center;
+    text-align: center
 }
-img {text-align: left;}
+img {text-align: left}
