@@ -24,3 +24,6 @@ p {color: aliceblue;
 img .Bingus {text-align: left;
     width: 45%;
 }
+header {
+    border: solid 2px white;
+}
