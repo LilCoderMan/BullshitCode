@@ -16,15 +16,17 @@ nav a{color:rgb(213, 165, 255);
     text-align: center
 }
 li {color: aliceblue;
-    text-align: left
+    text-align: left;
+    padding: 5%
 }
 p {color: aliceblue;
     text-align: center;
     font-size: large;
-    padding: 15%;
+    padding: 5%;
 }
 img .Bingus {text-align: center;
     width: 45%;
+    border: solid 2px white;
 }
 header {
     border: solid 2px white;
