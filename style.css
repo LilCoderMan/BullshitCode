@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(0, 0, 0) ;
+    background-color: rgb(0, 0, 0);
+    margin: 2px white;
 }
 strong{color: rgb(0, 255, 221)
 }
@@ -17,7 +18,7 @@ nav a{color:rgb(213, 165, 255);
 }
 li {color: aliceblue;
     text-align: left;
-    padding: 5%
+    padding: 1.5%
 }
 p {color: aliceblue;
     text-align: center;
@@ -30,4 +31,8 @@ img .Bingus {text-align: center;
 }
 header {
     border: solid 2px white;
+}
+section {
+    display: block;
+    unicode-bidi: isolate;
 }
