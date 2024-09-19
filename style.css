@@ -30,9 +30,11 @@ img .Bingus {text-align: center;
     border: solid 2px rgb(192, 255, 247)
 }
 header {
-    border: solid rgb(00, 255, 221)
+    border: solid rgb(192, 255, 247)
 }
 section {
     display: block;
     unicode-bidi: isolate;
+}
+a href {color: rgb(0, 255, 221);
 }
