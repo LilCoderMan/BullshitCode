@@ -1,9 +1,14 @@
 body {
-    background-color: rgb(0, 0, 0);
+    background-color: #494d5f;
     margin: 2px white;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
 }
+#a0d2eb
+#494d5f
+#e5eaf5
+#845bb3
+#d0bdf4
 strong{color: rgb(0, 255, 221)
 }
 header {
@@ -18,14 +23,14 @@ h1 {color: rgb(192, 255, 247);
 h2 {color: rgb(192, 255, 247);
     text-align: center
 }
-nav a{color:rgb(213, 165, 255);
+nav a{color:#d0bdf4;
     text-align: center
 }
-li {color: aliceblue;
+li {color: #e5eaf5;
     text-align: left;
     padding: 1.5%
 }
-p {color: aliceblue;
+p {color: #e5eaf5;
     text-align: center;
     font-size: large;
     padding: 5%;
