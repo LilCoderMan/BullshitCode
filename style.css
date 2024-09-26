@@ -35,7 +35,7 @@ p {color: #e5eaf5;
     font-size: large;
     padding: 5%;
 }
-img .Bingus {text-align: center;
+.Bingus {text-align: center;
     width: 45%;
     border: solid 2px #e5eaf5
 }
@@ -51,4 +51,12 @@ a href {color: #845bb3;
   .chamada-texto {
     margin-right: 5%;
   }
-  
+  .Shit1 {width: 45%;
+border: #494d5f 2px;
+}
+.Shit2 {width: 45%;
+border: #494d5f 2px;
+}
+.Shit3 {width: 45%;
+border: #494d5f 2px;
+}
