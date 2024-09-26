@@ -12,12 +12,12 @@ body {
 strong{color: rgb(0, 255, 221)
 }
 header {
-    border-bottom: solid 2px rgb(192, 255, 247);
+    border-bottom: solid 2px #845bb3;
     padding: 20px;
-    font-size: 32px;
-    color: rgb(192, 255, 247);
+    font-size: px;
+    color: #d0bdf4;
 }
-h1 {color: rgb(192, 255, 247);
+h1 {color: #e5eaf5;
     text-align: center
 }
 h2 {color: rgb(192, 255, 247);
@@ -37,12 +37,12 @@ p {color: #e5eaf5;
 }
 img .Bingus {text-align: center;
     width: 45%;
-    border: solid 2px rgb(192, 255, 247)
+    border: solid 2px #e5eaf5
 }
-a href {color: rgb(0, 255, 221);
+a href {color: #845bb3;
 }
   section {
-    background: rgb(156, 213, 213);
+    background: #e5eaf5;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
