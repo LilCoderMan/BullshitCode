@@ -9,7 +9,7 @@ body {
 #e5eaf5
 #845bb3
 #d0bdf4
-strong{color: rgb(0, 255, 221)
+strong{color: #845bb3
 }
 header {
     border-bottom: solid 2px #845bb3;
@@ -20,7 +20,7 @@ header {
 h1 {color: #e5eaf5;
     text-align: center
 }
-h2 {color: rgb(192, 255, 247);
+h2 {color: #e5eaf5;
     text-align: center
 }
 nav a{color:#d0bdf4;
@@ -42,13 +42,12 @@ img .Bingus {text-align: center;
 a href {color: #845bb3;
 }
   section {
-    background: #e5eaf5;
+    background: #845bb3;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
   }
-  
   .chamada-texto {
     margin-right: 5%;
   }
