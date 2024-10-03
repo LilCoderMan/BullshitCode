@@ -53,10 +53,33 @@ a href {color: #845bb3;
   }
   .Shit1 {width: 45%;
 border: #494d5f 2px;
+opacity: 0.5;
+height: 500px
 }
 .Shit2 {width: 45%;
 border: #494d5f 2px;
+opacity: 0.5;
+height: 500px
 }
 .Shit3 {width: 45%;
 border: #494d5f 2px;
+opacity: 0.5;
+height: 500px
+}
+.Shit4 {width: 45%;
+    border: #494d5f 2px;
+    opacity: 0.5;
+    height: 500px
+}
+.Shit1 img:hover {
+    opacity: 1.0;
+}
+.Shit2 img:hover {
+    opacity: 1.0;
+}
+.Shit3 img:hover {
+    opacity: 1.0;
+}
+.Shit4 img:hover {
+    opacity: 1.0;
 }
